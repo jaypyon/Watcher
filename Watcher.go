@@ -1,3 +1,7 @@
+/*
+Coded by jaypyon
+scorpion@dgu.ac.kr
+*/
 package main
 
 import (
